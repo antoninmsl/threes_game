@@ -4,6 +4,9 @@ Projet Tutoré du premier semestre de DUT Informatique de l'IUT de Villetaneuse 
 Sujet par B. LEMAIRE  
 Projet par Yacine LE MOUËL & Antonin MASSUELLE  
 
+Bibliothèque nécessaire : [termcolor](https://pypi.org/project/termcolor/)  
+Pour lancer le jeu : lancer app.py avec Python 3+  
+
 Sujet du projet :
 Le but du projet est de reproduire [le jeu Threes](https://fr.wikipedia.org/wiki/Threes!) en Python en utilisant la bibliothèque [termcolor](https://pypi.org/project/termcolor/) pour la partie interface graphique.  
 
