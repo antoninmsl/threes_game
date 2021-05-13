@@ -14,6 +14,8 @@ Ce projet était très encadré, la signature et le fonctionnement attendu de ch
 
 Je garde un bon souvenir de ce projet et j'envisage de le recommencer avec mes nouvelles compétences sur mon temps libre en ajoutant d'autres fonctionnalités notamment.
 
-## Screenshots :
+## Screenshots :  
 
-Pas encore fait
+![En cours de partie](/screenshots/playing.png)  
+
+![Partie finie](/screenshots/lost.png)  
